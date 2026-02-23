@@ -1,2 +1,3 @@
 # autonoma
-Focus on autonomous agent systems
+
+Research and experiments on agentic AI systems, with modular Python code and interactive notebooks.
